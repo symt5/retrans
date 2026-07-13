@@ -10,10 +10,10 @@ jobs:
   build:
     runs-on: ubuntu-latest # GitHub Action可以在Linux、MacOS、Windows环境下构建项目。这里使用的Linux环境。
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
 
     # Use GitHub Actions' cache to shorten build times and decrease load on servers
-    - uses: actions/cache@v2
+    - uses: actions/cache@v3
       with:
         path: vendor/bundle
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
@@ -21,7 +21,7 @@ jobs:
           ${{ runner.os }}-gems-
 
     # https://github.com/marketplace/actions/jekyll-actions
-    - uses: helaili/jekyll-action@v2
+    - uses: helaili/jekyll-action@v3
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: 'gh-pages'
