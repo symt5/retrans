@@ -150,7 +150,7 @@
 
 3.男娘 otokonoko 或伪娘 femboy，cosplay 或亚文化用词
 
-4. 药娘，代称 gaht 的 transF，部分语境可能带有污名化色彩
+4.药娘，代称 gaht 的 transF，部分语境可能带有污名化色彩
 
 5.易装者 cdi，cross dressing
 
