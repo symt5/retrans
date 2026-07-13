@@ -1,4 +1,3 @@
-# 多元性别相关术语
 ## 1. 底座术语
 1.生理性别，sex/sexual
 
@@ -11,9 +10,9 @@
 
 
 ## 2.二元性别术语
-1.顺性别 cg，Cisgender
+1.顺性别 cis，Cisgender
 
-2.跨性别 trans 或 tsg，Transgender
+2.跨性别 trans，Transgender
 
 3.指派性别 gaab，gender assigned at birth
 
@@ -21,13 +20,13 @@
 
 5.指派女性 afab，assigned female at birth
 
-6.顺性别女性 cgf，Cisgender female=afab+cg
+6.顺性别女性 cisF，Cisgender female=afab+cis
 
-7.跨性别女性 transF 或 tsgf，Transgender female=amab+trans（tsg）
+7.跨性别女性 transF，Transgender female=amab+trans
 
-8.顺性别男性 cgm，Cisgender male=amab+cg
+8.顺性别男性 cisM，Cisgender male=amab+cis
 
-9.跨性别男性 transM 或 tsgm，Transgender male=afab+trans（tsg）
+9.跨性别男性 transM，Transgender male=afab+trans
 
 
 
